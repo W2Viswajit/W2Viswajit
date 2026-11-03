@@ -41,15 +41,7 @@ I'm interested in **AI/ML and software engineering opportunities** where I can e
 
 </details>
 
-## `03 / research_log`
-
-**Causal Reinforcement Learning for Algorithmic Trading** · Final-year project
-
-Exploring how causal structure can inform sequential decisions: combining NOTEARS and Structural Causal Models with reinforcement learning, then comparing against non-causal baselines through ablation studies and statistical testing.
-
-`Causal inference` · `Dueling Double DQN` · `Discrete SAC` · `Python`
-
-## `04 / toolkit`
+## `03 / toolkit`
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=39D98A)
@@ -71,13 +63,13 @@ Exploring how causal structure can inform sequential decisions: combining NOTEAR
 ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=39D98A)
 ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=58D5E8)
 
-## `05 / beyond_the_code`
+## `04 / beyond_the_code`
 
 At **AUGMENTIX**, NMIT's AI & DS student club, I've led **12 junior developers across 3 incubation projects** and co-developed an **AR/VR curriculum with Madras Mindworks** used by **80+ engineering students**.
 
 I enjoy the part of engineering that happens between people: sharing ideas, helping someone get unstuck, and building something together.
 
-## `06 / activity_log`
+## `05 / activity_log`
 
 <img src="assets/activity.svg" width="100%" alt="GitHub contribution activity over the last 31 days" />
 
