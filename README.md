@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://viswajit-w2.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=39D98A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/viswajit-ramesh-kumar"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logoColor=58D5E8" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/viswajit-ramesh-kumar"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="mailto:viswajitw2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=39D98A" alt="Email Viswajit" /></a>
 </p>
 
@@ -56,7 +56,6 @@ Exploring how causal structure can inform sequential decisions: combining NOTEAR
 ![C++](https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=58D5E8)
 ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=39D98A)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=58D5E8)
 
 **AI / ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=39D98A)
@@ -80,9 +79,7 @@ I enjoy the part of engineering that happens between people: sharing ideas, help
 
 ## `06 / activity_log`
 
-<a href="https://github.com/W2Viswajit">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W2Viswajit&amp;bg_color=0d1117&amp;color=8b949e&amp;line=39d98a&amp;point=58d5e8&amp;area=true&amp;area_color=39d98a&amp;hide_border=true" width="100%" alt="Viswajit's GitHub contribution activity over the last 31 days" />
-</a>
+<img src="assets/activity.svg" width="100%" alt="GitHub contribution activity over the last 31 days" />
 
 ### `> snake --contributions`
 
