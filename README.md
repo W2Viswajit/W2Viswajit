@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://viswajit-w2.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=39D98A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/viswajit-ramesh-kumar"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:viswajitw2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=39D98A" alt="Email Viswajit" /></a>
+  <a href="https://viswajit-w2.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/viswajit-ramesh-kumar"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:viswajitw2@gmail.com"><img src="assets/email.svg" alt="Email Viswajit" /></a>
 </p>
 
 ## `01 / whoami`
